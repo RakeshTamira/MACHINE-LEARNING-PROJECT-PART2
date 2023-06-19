@@ -1,2 +1,2 @@
-# MACHINE-LEARNING-PROJECT-PART2
-MACHINE LEARNING FINAL PROJECT
+# Fish-classification-using-Machine-Learning
+Machine Learning Project The following video link consists of PPT Presentation and project Demo. The PPT presentation consists of Results screenshots aswell. Video link - ( https://drive.google.com/file/d/1varfWHUxj0KhCrYM2zkULBWS8Un4vWXS/view?usp=drive_link ) While running the project in jupyter please change the dataset files path and run for the output
